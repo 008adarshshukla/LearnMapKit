@@ -15,6 +15,7 @@
 		02D3F3C72896471C0007F0D1 /* LocationsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D3F3C62896471C0007F0D1 /* LocationsDataService.swift */; };
 		02D3F3C9289647760007F0D1 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D3F3C8289647760007F0D1 /* Location.swift */; };
 		02D3F3CB289649AA0007F0D1 /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D3F3CA289649AA0007F0D1 /* LocationsViewModel.swift */; };
+		02D3F3CD289654330007F0D1 /* LocationsListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D3F3CC289654330007F0D1 /* LocationsListView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		02D3F3C62896471C0007F0D1 /* LocationsDataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationsDataService.swift; sourceTree = "<group>"; };
 		02D3F3C8289647760007F0D1 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		02D3F3CA289649AA0007F0D1 /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
+		02D3F3CC289654330007F0D1 /* LocationsListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsListView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			isa = PBXGroup;
 			children = (
 				02D3F3C3289646D90007F0D1 /* LocationsView.swift */,
+				02D3F3CC289654330007F0D1 /* LocationsListView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02D3F3C72896471C0007F0D1 /* LocationsDataService.swift in Sources */,
+				02D3F3CD289654330007F0D1 /* LocationsListView.swift in Sources */,
 				02D3F3CB289649AA0007F0D1 /* LocationsViewModel.swift in Sources */,
 				02D3F3C4289646D90007F0D1 /* LocationsView.swift in Sources */,
 				02D3F3C9289647760007F0D1 /* Location.swift in Sources */,
