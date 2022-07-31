@@ -14,6 +14,7 @@
 		02D3F3C4289646D90007F0D1 /* LocationsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D3F3C3289646D90007F0D1 /* LocationsView.swift */; };
 		02D3F3C72896471C0007F0D1 /* LocationsDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D3F3C62896471C0007F0D1 /* LocationsDataService.swift */; };
 		02D3F3C9289647760007F0D1 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D3F3C8289647760007F0D1 /* Location.swift */; };
+		02D3F3CB289649AA0007F0D1 /* LocationsViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02D3F3CA289649AA0007F0D1 /* LocationsViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		02D3F3C3289646D90007F0D1 /* LocationsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsView.swift; sourceTree = "<group>"; };
 		02D3F3C62896471C0007F0D1 /* LocationsDataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationsDataService.swift; sourceTree = "<group>"; };
 		02D3F3C8289647760007F0D1 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
+		02D3F3CA289649AA0007F0D1 /* LocationsViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationsViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 		02D3F3BD2896464F0007F0D1 /* ViewModels */ = {
 			isa = PBXGroup;
 			children = (
+				02D3F3CA289649AA0007F0D1 /* LocationsViewModel.swift */,
 			);
 			path = ViewModels;
 			sourceTree = "<group>";
@@ -179,6 +182,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02D3F3C72896471C0007F0D1 /* LocationsDataService.swift in Sources */,
+				02D3F3CB289649AA0007F0D1 /* LocationsViewModel.swift in Sources */,
 				02D3F3C4289646D90007F0D1 /* LocationsView.swift in Sources */,
 				02D3F3C9289647760007F0D1 /* Location.swift in Sources */,
 				02D3F3B1289646200007F0D1 /* ContentView.swift in Sources */,
